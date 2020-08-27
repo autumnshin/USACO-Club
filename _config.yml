@@ -22,7 +22,7 @@ title: BCA USACO Club
 email: arrshi22@bergen.org
 description: >- # this means to ignore newlines until "baseurl:"
   This website was created as a guide for BCA students interesting in competing in USACO.
-baseurl: "USACO-Club" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  autumnshin
 
