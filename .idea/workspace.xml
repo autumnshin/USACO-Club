@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afeff6db-2437-4079-a722-5ad3af6da33d" name="Default Changelist" comment="Fix home page" />
+    <list default="true" id="afeff6db-2437-4079-a722-5ad3af6da33d" name="Default Changelist" comment="help" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +100,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598502981188</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Fix home page">
+      <created>1598504184989</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1598504184989</updated>
+    </task>
+    <task id="LOCAL-00010" summary="help">
+      <created>1598504366466</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1598504366466</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -129,7 +143,8 @@
     <MESSAGE value="get rid of line on main page" />
     <MESSAGE value="Add archive page" />
     <MESSAGE value="Fix home page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix home page" />
+    <MESSAGE value="help" />
+    <option name="LAST_COMMIT_MESSAGE" value="help" />
   </component>
   <component name="WindowStateProjectService">
     <state x="500" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598490462362">
