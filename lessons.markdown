@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lessons
-permalink: /archive/
+permalink: /lessons/
 ---
 
 ##### This archive contains lessons on various topics often used in USACO problems.
