@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afeff6db-2437-4079-a722-5ad3af6da33d" name="Default Changelist" comment="help" />
+    <list default="true" id="afeff6db-2437-4079-a722-5ad3af6da33d" name="Default Changelist" comment="fixed lesson page">
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +137,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598505056877</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="fixed home page">
+      <created>1598505122467</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1598505122467</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fixed lesson page">
+      <created>1598505188395</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1598505188395</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -165,7 +181,9 @@
     <MESSAGE value="Add archive page" />
     <MESSAGE value="Fix home page" />
     <MESSAGE value="help" />
-    <option name="LAST_COMMIT_MESSAGE" value="help" />
+    <MESSAGE value="fixed home page" />
+    <MESSAGE value="fixed lesson page" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed lesson page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="500" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598490462362">
