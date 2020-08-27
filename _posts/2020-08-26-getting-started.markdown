@@ -15,7 +15,7 @@ You can follow these steps to set up your environment. The video below will walk
 2. Open *USACO_Intro* in your favorite IDE. Our demo uses VSCode. More VSCode instructions are listed below.
 3. Run *section1/section1_1/test.java*. It should produce a new file *test.out*. If it does, your environment is set up!
 
-<iframe width="711" height="400" src="https://www.youtube.com/embed/XHWw6VngnTo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="711" height="400" src="https://www.youtube.com/embed/XHWw6VngnTo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
 
 
 # VSCode

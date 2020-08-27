@@ -10,8 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afeff6db-2437-4079-a722-5ad3af6da33d" name="Default Changelist" comment="Fix URLs and headers">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="afeff6db-2437-4079-a722-5ad3af6da33d" name="Default Changelist" comment="Fix file name format">
       <change beforePath="$PROJECT_DIR$/_posts/2020-08-26-getting-started.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-08-26-getting-started.markdown" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +53,28 @@
       <option name="project" value="LOCAL" />
       <updated>1598490772304</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fix URLs and headers">
+      <created>1598491171694</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598491171694</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fix file name format">
+      <created>1598491281579</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598491281579</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fix file name format">
+      <created>1598491338945</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598491338945</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -77,7 +97,8 @@
     <MESSAGE value="Fix URL" />
     <MESSAGE value="commit" />
     <MESSAGE value="Fix URLs and headers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix URLs and headers" />
+    <MESSAGE value="Fix file name format" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix file name format" />
   </component>
   <component name="WindowStateProjectService">
     <state x="500" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598490462362">
