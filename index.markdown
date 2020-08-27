@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Welcome to the BCA USACO Club!
 ---
 # hello world 
 I will put things here sometime
