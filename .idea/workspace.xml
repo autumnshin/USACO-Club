@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afeff6db-2437-4079-a722-5ad3af6da33d" name="Default Changelist" comment="fixed lesson page">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-    </list>
+    <list default="true" id="afeff6db-2437-4079-a722-5ad3af6da33d" name="Default Changelist" comment="fix home page" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598505188395</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="fix home page">
+      <created>1598505460334</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1598505460334</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -183,12 +188,21 @@
     <MESSAGE value="help" />
     <MESSAGE value="fixed home page" />
     <MESSAGE value="fixed lesson page" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed lesson page" />
+    <MESSAGE value="fix home page" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix home page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="500" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598490462362">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="500" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1598490462362" />
+    <state x="0" y="0" width="724" height="900" key="find.popup" timestamp="1598505653143">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="0" width="724" height="900" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1598505653143" />
+    <state x="301" y="207" key="run.anything.popup" timestamp="1598505632349">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="301" y="207" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1598505632349" />
   </component>
 </project>
