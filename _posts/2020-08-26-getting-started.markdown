@@ -3,7 +3,7 @@ layout: post
 title:  "Getting Started"
 date:   2020-08-26 17:41:28 -0400
 ---
-# Which language? asldkfjaskldjf
+# Which language? 
 
 The most popular language for USACO work is likely C++. This tutorial begins with Java as that is the language most beginners know best. Once you get a hang of USACO, you are more than welcome to learn C++, even encouraged. However, never fear if you decide to stick with Java. All of the USACO problems can be successfully written in either language.
 
