@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Getting Started"
@@ -41,7 +40,6 @@ In our setup the input data files are commingled in the source directories. This
 4. Run *java test* to execute test.
 
 
-Finally, after you are all set up, it's time to start solving problems! Register at [usaco.org][usaco.org], the USACO website which holds contests and has past contests for you to practice, and at [train.usaco.org][train.usaco.org], which presents problems in increasing difficulty. The following video walks you through getting setup and prepares you to solve your first programming challenge.
+Finally, after you are all set up, it's time to start solving problems! Register at [usaco.org], the USACO website which holds contests and has past contests for you to practice, and at [train.usaco.org], which presents problems in increasing difficulty. The following video walks you through getting setup and prepares you to solve your first programming challenge.
 Good luck!
 <iframe width="711" height="400" src="https://www.youtube.com/embed/vDeKE0iyR2c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
