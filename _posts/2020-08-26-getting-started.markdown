@@ -11,9 +11,9 @@ The most popular language for USACO work is likely C++. This tutorial begins wit
 
 You can follow these steps to set up your environment. The video below will walk you through the process.
 
-1. Clone [this repo.][https://github.com/ATCS-BCA/USACOHelp.github.io]
+1. Clone [this repo.](https://github.com/ATCS-BCA/USACOHelp.github.io)
 2. Open USACO_Intro in your favorite IDE. Our demo uses VSCode. More VSCode instructions are listed below.
-3. Run section1/section1_1/test.java. It should produce a new file test.out. If it does, your environment is set up!
+3. Run *section1/section1_1/test.java*. It should produce a new file *test.out*. If it does, your environment is set up!
 
 <iframe width="711" height="400" src="https://www.youtube.com/embed/XHWw6VngnTo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -28,14 +28,14 @@ After installing VSCode, you may wish to install the following extensions:
 * Java Code Generators
 
 1. Open the Folder USACO_Intro
-2. Go to File -> Save Workspace As -- choose a name of your preference for saving the workspace.
+2. Go to *File* -> *Save Workspace As* -- choose a name of your preference for saving the workspace.
 
 # Running Programs
 In our setup the input data files are commingled in the source directories. This helps in organization. However, to run the Java programs, you will need to navigate to the source directory.
 
 1. Launch the terminal.
 2. Change directories to *section1/section1_1*
-3. Run javac *.java to compile source in this directory.
+3. Run *javac *.java* to compile source in this directory.
 4. Run *java test* to execute test.
 
 
